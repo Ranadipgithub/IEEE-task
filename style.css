@@ -16,6 +16,10 @@ body {
     z-index: 999;
 }
 
+#fixed-nav{
+    position: fixed;
+}
+
 .nav-logo img {
     height: 3rem;
     width: 5rem;
