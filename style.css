@@ -10,10 +10,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: 999;
 }
 
 #fixed-nav{
@@ -44,15 +40,11 @@ body {
     justify-content: center;
 }
 
-.content {
-    color: white;
-    margin-left: 10rem;
-}
-
 .content1 {
     color: white;
     font-size: 2rem;
     font-weight: 400;
+    margin-left: 10rem;
 }
 
 .content2 {
@@ -60,6 +52,7 @@ body {
     font-size: 3rem;
     font-weight: 500;
     width: 50rem;
+    margin-left: 10rem;
 }
 
 /* .main-content1{
